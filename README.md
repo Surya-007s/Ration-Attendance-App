@@ -2,8 +2,13 @@
 
 **RationTrack** is a Flutter application that helps ration shop (PDS) dealers and field staff track ration card holder attendance digitally. Scan a card's QR code to mark attendance, keep a local database of card holders, import data from Excel, and generate detailed reports — all offline, on-device.
 
-<!-- Add screenshots here later -->
-<!-- ![Dashboard](screenshots/dashboard.png) ![QR Scanner](screenshots/scanner.png) -->
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.jpg)
+
+<!-- More screenshots: QR scanner, reports, backup... -->
+<!-- ![QR Scanner](screenshots/scanner.png) -->
 
 ---
 
