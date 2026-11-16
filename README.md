@@ -7,7 +7,7 @@
 | English Home | Telugu Home (తెలుగు) | Main Menu |
 |:---:|:---:|:---:|
 | ![English Home](screenshots/home_english.jpg) | ![Telugu Home](screenshots/home_telugu.jpg) | ![Dashboard Menu](screenshots/dashboard.jpg) |
-| ![Add Beneficiary](screenshots/add_beneficiary.jpg) | ![Monthly History](screenshots/monthly_history.jpg) | |
+| ![Add Beneficiary](screenshots/add_beneficiary.jpg) | ![Monthly History](screenshots/monthly_history.jpg) | ![Reports](screenshots/reports.jpg) |
 
 <!-- More screenshots: QR scanner, reports, backup... -->
 <!-- ![QR Scanner](screenshots/scanner.png) -->
