@@ -4,8 +4,9 @@
 
 ## 📸 Screenshots
 
-### Dashboard
-![Dashboard](screenshots/dashboard.jpg)
+| English Dashboard | Telugu Home (తెలుగు) |
+|:---:|:---:|
+| ![Dashboard](screenshots/dashboard.jpg) | ![Telugu Home](screenshots/home_telugu.jpg) |
 
 <!-- More screenshots: QR scanner, reports, backup... -->
 <!-- ![QR Scanner](screenshots/scanner.png) -->
